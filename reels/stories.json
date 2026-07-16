@@ -21,7 +21,7 @@
         {
           "id": "102",
           "title": "পরীর জাদু",
-          "description": "এক বনের পরীর জাদুর লাঠি নিয়ে মজার এক রূপকথার কাহিনী।",
+          "description": "এক বনের পরীর জাদুর লাঠি নিয়ে মজার এক রূপকথার কাহিনী।",
           "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
           "thumbnailUrl": [
             "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
@@ -43,17 +43,82 @@
           "duration": "03:50",
           "category": "শিক্ষামূলক",
           "isNew": true
+        },
+        {
+          "id": "106",
+          "title": "পরীর জাদু (টেস্ট ২)",
+          "description": "এক বনের পরীর জাদুর লাঠি নিয়ে মজার এক রূপকথার কাহিনী।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/fairy_2.jpg"
+          ],
+          "duration": "04:15",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "107",
+          "title": "সিংহ আর ইঁদুর (টেস্ট ২)",
+          "description": "বনের রাজা সিংহ আর ছোট্ট এক সাহসী ইঁদুরের বন্ধুত্বের গল্প।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/lion_2.jpg"
+          ],
+          "duration": "03:50",
+          "category": "শিক্ষামূলক",
+          "isNew": true
+        },
+        {
+          "id": "108",
+          "title": "পরীর জাদু (টেস্ট ৩)",
+          "description": "এক বনের পরীর জাদুর লাঠি নিয়ে মজার এক রূপকথার কাহিনী।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/fairy_2.jpg"
+          ],
+          "duration": "04:15",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "109",
+          "title": "সিংহ আর ইঁদুর (টেস্ট ৩)",
+          "description": "বনের রাজা সিংহ আর ছোট্ট এক সাহসী ইঁদুরের বন্ধুত্বের গল্প।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/lion_2.jpg"
+          ],
+          "duration": "03:50",
+          "category": "শিক্ষামূলক",
+          "isNew": true
+        },
+        {
+          "id": "110",
+          "title": "পরীর জাদু (টেস্ট ৪)",
+          "description": "এক বনের পরীর জাদুর লাঠি নিয়ে মজার এক রূপকথার কাহিনী।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/fairy_2.jpg"
+          ],
+          "duration": "04:15",
+          "category": "রূপকথা",
+          "isNew": true
         }
       ]
     },
     {
-      "title": "অন্যান্য জনপ্রিয় গল্প",
+      "title": "অন্যান্য জনপ্রিয় গল্প",
       "type": "row",
       "stories": [
         {
           "id": "104",
-          "title": "চালাক শিয়াল",
-          "description": "বুদ্ধিমান শিয়ালের মজার কাণ্ডকারখানা নিয়ে হাসির গল্প।",
+          "title": "চালাক শিয়াল",
+          "description": "বুদ্ধিমান শিয়ালের মজার কাণ্ডকারখানা নিয়ে হাসির গল্প।",
           "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
           "thumbnailUrl": [
             "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
@@ -66,7 +131,7 @@
         {
           "id": "105",
           "title": "কচ্ছপ আর খরগোশ",
-          "description": "অহংকার পতনের মূল - ধীরে চললেও জয়ী হওয়া যায় তার গল্প।",
+          "description": "অহংকার পতনের মূল - ধীরে চললেও জয়ী হওয়া যায় তার গল্প।",
           "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
           "thumbnailUrl": [
             "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
@@ -74,6 +139,71 @@
           ],
           "duration": "05:00",
           "category": "নীতিকথা",
+          "isNew": false
+        },
+        {
+          "id": "111",
+          "title": "চালাক শিয়াল (টেস্ট ২)",
+          "description": "বুদ্ধিমান শিয়ালের মজার কাণ্ডকারখানা নিয়ে হাসির গল্প।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/fox_2.jpg"
+          ],
+          "duration": "06:10",
+          "category": "গল্প",
+          "isNew": false
+        },
+        {
+          "id": "112",
+          "title": "কচ্ছপ আর খরগোশ (টেস্ট ২)",
+          "description": "অহংকার পতনের মূল - ধীরে চললেও জয়ী হওয়া যায় তার গল্প।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/race_2.jpg"
+          ],
+          "duration": "05:00",
+          "category": "নীতিকথা",
+          "isNew": false
+        },
+        {
+          "id": "113",
+          "title": "চালাক শিয়াল (টেস্ট ৩)",
+          "description": "বুদ্ধিমান শিয়ালের মজার কাণ্ডকারখানা নিয়ে হাসির গল্প।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/fox_2.jpg"
+          ],
+          "duration": "06:10",
+          "category": "গল্প",
+          "isNew": false
+        },
+        {
+          "id": "114",
+          "title": "কচ্ছপ আর খরগোশ (টেস্ট ৩)",
+          "description": "অহংকার পতনের মূল - ধীরে চললেও জয়ী হওয়া যায় তার গল্প।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/race_2.jpg"
+          ],
+          "duration": "05:00",
+          "category": "নীতিকথা",
+          "isNew": false
+        },
+        {
+          "id": "115",
+          "title": "চালাক শিয়াল (টেস্ট ৪)",
+          "description": "বুদ্ধিমান শিয়ালের মজার কাণ্ডকারখানা নিয়ে হাসির গল্প।",
+          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+          "thumbnailUrl": [
+            "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+            "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/fox_2.jpg"
+          ],
+          "duration": "06:10",
+          "category": "গল্প",
           "isNew": false
         }
       ]
