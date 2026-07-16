@@ -4,63 +4,65 @@
     "title": "খরগোশ আর কচ্ছপ",
     "description": "একটি মজার নীতিকথার গল্প",
     "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
-    "thumbnailUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+    "thumbnailUrl": [
+      "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+      "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/sonar_pakhi.webp",
+      "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp"
+    ],
     "duration": "06:30",
     "category": "নীতিকথা",
-    "isNew": false
+    "isNew": true
   },
-  "sections": [
+  "stories": [
     {
-      "title": "নতুন গল্প",
-      "type": "grid",
-      "stories": [
-        {
-          "id": "2",
-          "title": "পরীর জাদু",
-          "description": "একটি মজার রূপকথার গল্প",
-          "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/sonar_pakhi.mp3",
-          "thumbnailUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/sonar_pakhi.webp",
-          "duration": "05:20",
-          "category": "রূপকথা",
-          "isNew": true
-        },
-        {
-          "id": "3",
-          "title": "সিংহ আর ইঁদুর",
-          "description": "একটি শিক্ষামূলক গল্প",
-          "audioUrl": "https://bornoporichoy.skmostafa5.com/bornoporichoy/audio/lion_mouse.mp3",
-          "thumbnailUrl": "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/lion_mouse.jpg",
-          "duration": "04:45",
-          "category": "শিক্ষামূলক",
-          "isNew": true
-        }
-      ]
+      "id": "1",
+      "title": "খরগোশ আর কচ্ছপ",
+      "description": "একটি মজার নীতিকথার গল্প",
+      "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+      "thumbnailUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+      "duration": "06:30",
+      "category": "নীতিকথা",
+      "isNew": true
     },
     {
-      "title": "অন্যান্য জনপ্রিয় গল্প",
-      "type": "row",
-      "stories": [
-        {
-          "id": "4",
-          "title": "চালাক শিয়াল",
-          "description": "বুদ্ধিমান শিয়ালের গল্প",
-          "audioUrl": "https://bornoporichoy.skmostafa5.com/bornoporichoy/audio/clever_fox.mp3",
-          "thumbnailUrl": "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/clever_fox.jpg",
-          "duration": "06:10",
-          "category": "গল্প",
-          "isNew": false
-        },
-        {
-          "id": "5",
-          "title": "ছেলে আর ছাগল",
-          "description": "রাখাল বালকের মজার গল্প",
-          "audioUrl": "https://bornoporichoy.skmostafa5.com/bornoporichoy/audio/boy_goat.mp3",
-          "thumbnailUrl": "https://bornoporichoy.skmostafa5.com/bornoporichoy/images/boy_goat.jpg",
-          "duration": "04:30",
-          "category": "গল্প",
-          "isNew": false
-        }
-      ]
+      "id": "2",
+      "title": "পরীর জাদু",
+      "description": "একটি সুন্দর রূপকথার গল্প",
+      "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+      "thumbnailUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/sonar_pakhi.webp",
+      "duration": "05:20",
+      "category": "রূপকথা",
+      "isNew": true
+    },
+    {
+      "id": "3",
+      "title": "চালাক শিয়াল",
+      "description": "একটি শিক্ষামূলক পশুপাখির গল্প",
+      "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+      "thumbnailUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+      "duration": "04:45",
+      "category": "পশুপাখির গল্প",
+      "isNew": false
+    },
+    {
+      "id": "4",
+      "title": "সিংহ আর ইঁদুর",
+      "description": "একটি শিক্ষামূলক নীতিকথার গল্প",
+      "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+      "thumbnailUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/sonar_pakhi.webp",
+      "duration": "04:30",
+      "category": "নীতিকথা",
+      "isNew": false
+    },
+    {
+      "id": "5",
+      "title": "লাল টুকটুকে মুরগি",
+      "description": "একটি মজার শিশুতোষ গল্প",
+      "audioUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.mp3",
+      "thumbnailUrl": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/reels/lover_fol.webp",
+      "duration": "05:10",
+      "category": "শিশুতোষ গল্প",
+      "isNew": true
     }
   ]
 }
