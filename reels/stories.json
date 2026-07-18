@@ -2,14 +2,13 @@
   "featured": {
     "id": "story_featured",
     "title": "লালপরীর জাদুর কাঠি 🪄",
-    "description": "এক পরীর দেশে থাকতো মিষ্টি এক লালপরী। তার কাছে ছিল একটি সুন্দর জাদুর কাঠি, যা দিয়ে সে সবার দুঃখ দূর করতো। একদিন তার সেই কাঠিটি হারিয়ে গেল এবং শুরু হলো এক নতুন রহস্য...",
+    "description": "এক পরীর দেশে থাকতো মিষ্টি এক লালপরী। তার কাছে ছিল একটি সুন্দর জাদুর কাঠি, যা দিয়ে সে সবার দুঃখ দূর করতো। একদিন তার সেই কাঠিটি হারিয়ে গেল...",
     "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
     "thumbnailUrl": [
       "https://picsum.photos/id/1015/800/600",
       "https://picsum.photos/id/1016/800/600",
       "https://picsum.photos/id/1018/800/600",
-      "https://picsum.photos/id/1019/800/600",
-      "https://picsum.photos/id/1020/800/600"
+      "https://picsum.photos/id/1019/800/600"
     ],
     "duration": "02:00",
     "category": "রূপকথা",
@@ -17,13 +16,13 @@
   },
   "sections": [
     {
-      "title": "জনপ্রিয় গল্পসমূহ 🌟",
-      "type": "row",
+      "title": "নতুন মজার রূপকথা 🦄",
+      "type": "grid",
       "stories": [
         {
           "id": "story_1",
-          "title": "বোকা সিংহের বুদ্ধিমান খরগোশ 🐰",
-          "description": "এক বনের লোভী সিংহ প্রতিদিন বনের একটি করে পশু খেত। একদিন এক ছোট্ট খরগোশের পালা এলে সে তার বুদ্ধির জোরে বনের সবাইকে বাঁচানোর জন্য সিংহকে এক গভীর কুয়োর কাছে নিয়ে গেল...",
+          "title": "বোকা সিংহের বুদ্ধিমান খরগোশ",
+          "description": "এক বনের লোভী সিংহকে বুদ্ধি খাটিয়ে খরগোশ কীভাবে শাস্তি দিল তার গল্প...",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
           "thumbnailUrl": [
             "https://picsum.photos/id/1025/800/600",
@@ -31,132 +30,385 @@
             "https://picsum.photos/id/1023/800/600"
           ],
           "duration": "01:30",
-          "category": "ঈশপের গল্প",
-          "isNew": false
+          "category": "রূপকথা",
+          "isNew": true
         },
         {
           "id": "story_2",
-          "title": "মিথ্যেবাদী রাখাল ছেলে 🐑",
-          "description": "এক রাখাল ছেলে পাহাড়ে ভেড়া চড়ানোর সময় মজা করার জন্য চিৎকার করে বলতো 'বাঘ এসেছে, বাঘ এসেছে'। গ্রামবাসীরা লাঠিসোটা নিয়ে ছুটে আসতো, কিন্তু গিয়ে দেখতো ছেলেটি হাসছে...",
+          "title": "টুনটুনি ও দুষ্টু বিড়াল",
+          "description": "মিষ্টি এক টুনটুনি পাখি ও দুষ্টু বিড়ালের বুদ্ধিদীপ্ত লড়াইয়ের গল্প...",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
           "thumbnailUrl": [
+            "https://picsum.photos/id/1040/800/600",
+            "https://picsum.photos/id/1041/800/600"
+          ],
+          "duration": "01:00",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_3",
+          "title": "সোনার ডিম পাড়া হাঁস",
+          "description": "এক লোভী চাষী ও তার সোনার ডিম পাড়া হাঁসের শিক্ষামূলক রূপকথা...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1047/800/600",
+            "https://picsum.photos/id/1048/800/600",
+            "https://picsum.photos/id/1049/800/600"
+          ],
+          "duration": "03:00",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_4",
+          "title": "সাত ভাই চম্পা ও পারুল",
+          "description": "সাত ভাই চম্পা ও বোন পারুলের ঐতিহ্যবাহী জাদুকরী রূপকথা...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1055/800/600",
+            "https://picsum.photos/id/1056/800/600",
+            "https://picsum.photos/id/1057/800/600",
+            "https://picsum.photos/id/1058/800/600"
+          ],
+          "duration": "04:30",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_5",
+          "title": "মেঘের দেশের উড়ন্ত জাহাজ",
+          "description": "কাগজের উড়ন্ত জাহাজে চড়ে মেঘের দেশে রোমাঞ্চকর ভ্রমণের গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1069/800/600",
+            "https://picsum.photos/id/1070/800/600"
+          ],
+          "duration": "02:40",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_6",
+          "title": "নীল সাগরের রাজকন্যা",
+          "description": "গভীর নীল সাগরের নিচে এক মিষ্টি রাজকন্যার জাদুকরী রাজপ্রাসাদের গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+          "thumbnailUrl": [
             "https://picsum.photos/id/1035/800/600",
-            "https://picsum.photos/id/1036/800/600",
-            "https://picsum.photos/id/1037/800/600",
-            "https://picsum.photos/id/1038/800/600"
+            "https://picsum.photos/id/1036/800/600"
+          ],
+          "duration": "02:15",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_7",
+          "title": "চাঁদের বুড়ির চরকা কাটা",
+          "description": "চাঁদের দেশে বসবাসকারী এক মিষ্টি বুড়ির রূপকথার গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1051/800/600"
+          ],
+          "duration": "01:50",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_8",
+          "title": "ঘুমন্ত রাজকন্যা ও সোনার কাঠি",
+          "description": "এক রাজপ্রাসাদের একশ বছরের ঘুমন্ত রাজকন্যা ও রাজপুত্রের গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1062/800/600",
+            "https://picsum.photos/id/1063/800/600"
+          ],
+          "duration": "03:10",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_9",
+          "title": "ব্যাঙ রাজপুত্র",
+          "description": "এক রাজকন্যার সোনার বল কুড়িয়ে দেওয়া ব্যাঙ রাজপুত্রের রূপকথা...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1074/800/600",
+            "https://picsum.photos/id/1075/800/600"
+          ],
+          "duration": "02:30",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_10",
+          "title": "জাদুর জুতো ও কাঠুরে",
+          "description": "এক গরীব কাঠুরের বন থেকে জাদুর জুতো খুঁজে পাওয়ার রোমাঞ্চকর গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1076/800/600",
+            "https://picsum.photos/id/1077/800/600"
+          ],
+          "duration": "02:05",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_11",
+          "title": "ছোট্ট লাল টুপি ও নেকড়ে",
+          "description": "বনে নানীর বাড়ি যাওয়ার পথে ছোট্ট মেয়ের সাথে দুষ্টু নেকড়ের মোলাকাত...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1078/800/600",
+            "https://picsum.photos/id/1079/800/600"
+          ],
+          "duration": "02:50",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_12",
+          "title": "সিন্ডারেলা ও কাঁচের জুতো",
+          "description": "রাজপুত্রের বল নাচে গিয়ে হারিয়ে ফেলা সিন্ডারেলার কাঁচের জুতোর চিরন্তন রূপকথা...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1080/800/600",
+            "https://picsum.photos/id/1081/800/600"
+          ],
+          "duration": "03:40",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_13",
+          "title": "রূপাঞ্জন ও রূপোর ফুল",
+          "description": "এক রাজপুত্রের রূপোর ফুলের সন্ধানে জাদুকরী পাহাড়ে অভিযানের কাহিনী...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1082/800/600"
+          ],
+          "duration": "01:55",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_14",
+          "title": "জাদুর কার্পেট",
+          "description": "আলাদিনের মতো উড়ন্ত জাদুর কার্পেটে চড়ে বিশ্ব ভ্রমণের এক রূপকথা...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1083/800/600",
+            "https://picsum.photos/id/1084/800/600"
+          ],
+          "duration": "02:20",
+          "category": "রূপকথা",
+          "isNew": true
+        },
+        {
+          "id": "story_15",
+          "title": "সোনার হরিণ ও শিকারী",
+          "description": "এক গভীর বনে রূপালী শিং বিশিষ্ট সোনার হরিণ ও শিকারীর বুদ্ধিদীপ্ত লড়াই...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1011/800/600",
+            "https://picsum.photos/id/1012/800/600"
+          ],
+          "duration": "03:15",
+          "category": "রূপকথা",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "জনপ্রিয় সব গল্প 🌟",
+      "type": "row",
+      "stories": [
+        {
+          "id": "story_16",
+          "title": "মিথ্যেবাদী রাখাল ছেলে",
+          "description": "মিথ্যে কথা বলার কারণে চরম শাস্তি পাওয়া এক রাখাল ছেলের শিক্ষণীয় গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1035/800/600",
+            "https://picsum.photos/id/1036/800/600"
           ],
           "duration": "02:00",
           "category": "শিক্ষামূলক",
           "isNew": false
         },
         {
-          "id": "story_3",
-          "title": "টুনটুনি ও দুষ্টু বিড়ালের গল্প 🐦",
-          "description": "মিষ্টি এক টুনটুনি পাখি বেগুন গাছে বাসা বেঁধেছিল। এক দুষ্টু বিড়াল প্রতিদিন এসে তাকে বলতো 'কি করিস লো টুনটুনি?'। শেষমেশ টুনটুনি কিভাবে বুদ্ধি খাটিয়ে বিড়ালকে উপযুক্ত শিক্ষা দিল...",
-          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
-          "thumbnailUrl": [
-            "https://picsum.photos/id/1040/800/600",
-            "https://picsum.photos/id/1041/800/600",
-            "https://picsum.photos/id/1042/800/600"
-          ],
-          "duration": "01:00",
-          "category": "হাস্যরসাত্মক",
-          "isNew": true
-        }
-      ]
-    },
-    {
-      "title": "নতুন মজার রূপকথা 🦄",
-      "type": "grid",
-      "stories": [
-        {
-          "id": "story_4",
-          "title": "সোনার ডিম পাড়া হাঁস 🦆",
-          "description": "এক দরিদ্র চাষীর একটি অদ্ভুত হাঁস ছিল, যা প্রতিদিন একটি করে খাঁটি সোনার ডিম পাড়ত। চাষীটি রাতারাতি আরও ধনী হওয়ার অতি লোভে হাঁসটির পেট কাটার এক মারাত্মক সিদ্ধান্ত নিল...",
-          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
-          "thumbnailUrl": [
-            "https://picsum.photos/id/1047/800/600",
-            "https://picsum.photos/id/1048/800/600",
-            "https://picsum.photos/id/1049/800/600",
-            "https://picsum.photos/id/1050/800/600"
-          ],
-          "duration": "03:00",
-          "category": "শিক্ষামূলক",
-          "isNew": true
-        },
-        {
-          "id": "story_5",
-          "title": "কচ্ছপ ও খরগোশের দৌড় 🐢",
-          "description": "অহংকারী খরগোশ তার দ্রুতগতির জন্য বনের সবার কাছে গর্ব করতো। একদিন সে ধীরগতির কচ্ছপকে দৌড় প্রতিযোগিতার চ্যালেঞ্জ জানালো। কচ্ছপ শান্ত মনে রাজি হলো এবং পথিমধ্যে খরগোশ ঘুমিয়ে পড়ল...",
-          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "id": "story_17",
+          "title": "কচ্ছপ ও খরগোশ",
+          "description": "ধীরস্থির ও অধ্যবসায়ের জোরে কচ্ছপের খরগোশকে হারিয়ে দেওয়ার গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
           "thumbnailUrl": [
             "https://picsum.photos/id/1051/800/600",
-            "https://picsum.photos/id/1052/800/600",
-            "https://picsum.photos/id/1053/800/600"
+            "https://picsum.photos/id/1052/800/600"
           ],
           "duration": "01:15",
           "category": "ঈশপের গল্প",
           "isNew": false
         },
         {
-          "id": "story_6",
-          "title": "সাত ভাই চম্পা ও পারুল 🌺",
-          "description": "বাংলার সেই বিখ্যাত প্রাচীন রূপকথা— এক রানীর ছিল সাত ছেলে আর এক আদরের মেয়ে পারুল। হিংসুটে বড় রানীরা নবজাতকদের মাটির হাঁড়িতে লুকিয়ে বনের চম্পা গাছের নিচে ফেলে দিয়ে এলো...",
-          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
-          "thumbnailUrl": [
-            "https://picsum.photos/id/1055/800/600",
-            "https://picsum.photos/id/1056/800/600",
-            "https://picsum.photos/id/1057/800/600",
-            "https://picsum.photos/id/1058/800/600",
-            "https://picsum.photos/id/1059/800/600"
-          ],
-          "duration": "04:30",
-          "category": "রূপকথা",
-          "isNew": false
-        },
-        {
-          "id": "story_7",
-          "title": "লোভী কুকুরের নদীর ছবি 🐕",
-          "description": "একটি কুকুর এক টুকরো লোভনীয় মাংস মুখে নিয়ে কাঠের ব্রিজ দিয়ে নদী পার হচ্ছিল। ব্রিজের ওপর থেকে নিচে নিজের প্রতিচ্ছবি দেখে সে ভাবল নদীর জলের নিচে অন্য কোনো কুকুর বুঝি বড় মাংস নিয়ে দাঁড়িয়ে আছে...",
-          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+          "id": "story_18",
+          "title": "লোভী কুকুর",
+          "description": "জলে নিজের ছায়া দেখে লোভ করতে গিয়ে নিজের মাংস হারানো কুকুরের গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
           "thumbnailUrl": [
             "https://picsum.photos/id/1062/800/600"
           ],
           "duration": "01:00",
           "category": "নীতিশিক্ষা",
           "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "অভিযান ও রোমাঞ্চ 🧭",
-      "type": "row",
-      "stories": [
-        {
-          "id": "story_8",
-          "title": "মেঘের দেশের উড়ন্ত জাহাজ ⛵",
-          "description": "পিন্টু আর তার পোষা বিড়াল বাবলু একদিন ছাদের কোণে ধুলোমাখা একটি সুন্দর কাগজের জাহাজ খুঁজে পেল। যেই না তারা সেটিতে চড়ল, অমনি জাহাজটি এক জাদুকরী ডানায় ভর করে উড়তে শুরু করল নীল আকাশে...",
-          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
-          "thumbnailUrl": [
-            "https://picsum.photos/id/1069/800/600",
-            "https://picsum.photos/id/1070/800/600",
-            "https://picsum.photos/id/1071/800/600",
-            "https://picsum.photos/id/1072/800/600"
-          ],
-          "duration": "02:40",
-          "category": "অভিযান",
-          "isNew": true
         },
         {
-          "id": "story_9",
-          "title": "মহা জ্ঞানী বুড়ো পেঁচা 🦉",
-          "description": "বনের সবচেয়ে পুরনো ও বিশালাকার ওক গাছের মগডালে কোটরে থাকত এক মহা জ্ঞানী বুড়ো পেঁচা। সারাদিন সে চুপচাপ চারপাশ পর্যবেক্ষণ করতো এবং বনের সব পশু বিপদে পড়লে তার কাছে সুপরামর্শের জন্য আসতো...",
-          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "id": "story_19",
+          "title": "জ্ঞানী বুড়ো পেঁচা",
+          "description": "বনের সবচেয়ে বয়সী ও বুদ্ধিমান পেঁচার জীবনের দারুণ এক শিক্ষণীয় গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
           "thumbnailUrl": [
             "https://picsum.photos/id/1074/800/600"
           ],
           "duration": "01:50",
           "category": "নীতিকথা",
+          "isNew": false
+        },
+        {
+          "id": "story_20",
+          "title": "পিঁপড়ে ও পায়রা",
+          "description": "একে অপরকে বিপদ থেকে বাঁচিয়ে চিরদিনের বন্ধু হয়ে ওঠার চিরন্তন সত্য গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1029/800/600",
+            "https://picsum.photos/id/1030/800/600"
+          ],
+          "duration": "01:40",
+          "category": "নীতিকথা",
+          "isNew": false
+        },
+        {
+          "id": "story_21",
+          "title": "কাঠুরে ও জলপরী",
+          "description": "সৎ কাঠুরেকে জলপরী কর্তৃক সোনার ও রূপার কুড়াল পুরস্কার দেওয়ার শিক্ষণীয় গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1038/800/600",
+            "https://picsum.photos/id/1039/800/600"
+          ],
+          "duration": "02:30",
+          "category": "নীতিকথা",
+          "isNew": false
+        },
+        {
+          "id": "story_22",
+          "title": "ঘণ্টা পরা বেড়াল",
+          "description": "ইঁদুরদের মিটিংয়ে বিড়ালের গলায় ঘণ্টা কে বাঁধবে তা নিয়ে হাস্যকর গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1041/800/600",
+            "https://picsum.photos/id/1042/800/600"
+          ],
+          "duration": "01:20",
+          "category": "ঈশপের গল্প",
+          "isNew": false
+        },
+        {
+          "id": "story_23",
+          "title": "তৃষ্ণার্ত কাক ও কলসী",
+          "description": "কলসীর তলায় থাকা পানি নুড়ি পাথর ফেলে কাকের তৃষ্ণা মেটানোর বুদ্ধিমত্তার গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1043/800/600",
+            "https://picsum.photos/id/1044/800/600"
+          ],
+          "duration": "01:10",
+          "category": "ঈশপের গল্প",
+          "isNew": false
+        },
+        {
+          "id": "story_24",
+          "title": "দুই বন্ধু ও ভাল্লুক",
+          "description": "বিপদের সময় প্রকৃত বন্ধু চেনার এক দারুণ বাস্তববাদী কাহিনী...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1045/800/600"
+          ],
+          "duration": "02:00",
+          "category": "নীতিকথা",
+          "isNew": false
+        },
+        {
+          "id": "story_25",
+          "title": "একতাই বল",
+          "description": "এক বুড়ো বাবা ও তার ঝগড়াটে ছেলেদের লাঠির আঁটির মাধ্যমে দেওয়া একতার শিক্ষা...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1052/800/600"
+          ],
+          "duration": "01:45",
+          "category": "শিক্ষামূলক",
+          "isNew": false
+        },
+        {
+          "id": "story_26",
+          "title": "নেকড়ে ও সারস পাখি",
+          "description": "নেকড়ের গলায় আটকে যাওয়া হাড় সারস পাখি কর্তৃক বের করার মজার গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1054/800/600",
+            "https://picsum.photos/id/1056/800/600"
+          ],
+          "duration": "01:35",
+          "category": "ঈশপের গল্প",
+          "isNew": false
+        },
+        {
+          "id": "story_27",
+          "title": "মিষ্টি আলুর খোঁজে খরগোশ",
+          "description": "এক শীতের সকালে ক্ষুধার্ত খরগোশের বনের মধ্যে মিষ্টি আলু খোঁজার অভিযান...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1060/800/600",
+            "https://picsum.photos/id/1061/800/600"
+          ],
+          "duration": "02:10",
+          "category": "মজার গল্প",
+          "isNew": false
+        },
+        {
+          "id": "story_28",
+          "title": "চাঁদের সোনার নৌকো",
+          "description": "মেঘের ওপর চাঁদের আলোয় ভাসমান এক সোনার নৌকোর কাল্পনিক উপকথা...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1065/800/600"
+          ],
+          "duration": "01:50",
+          "category": "মজার গল্প",
+          "isNew": false
+        },
+        {
+          "id": "story_29",
+          "title": "শেয়াল ও আঙুর ফল",
+          "description": "আঙুর ফল ধরতে না পেরে শেয়ালের 'আঙুর ফল টক' বলার অমর হাস্যরসাত্মক কাহিনী...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1071/800/600",
+            "https://picsum.photos/id/1072/800/600"
+          ],
+          "duration": "01:15",
+          "category": "ঈশপের গল্প",
+          "isNew": false
+        },
+        {
+          "id": "story_30",
+          "title": "লোভী বানর ও সংকীর্ণ পাত্র",
+          "description": "লোভে পড়ে পাত্রের ভেতর থেকে বাদাম হাত মুঠোর কারণে আটকে যাওয়া বানরের হাসির গল্প...",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "thumbnailUrl": [
+            "https://picsum.photos/id/1075/800/600"
+          ],
+          "duration": "01:30",
+          "category": "শিক্ষামূলক",
           "isNew": false
         }
       ]
